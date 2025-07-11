@@ -1,0 +1,3 @@
+[Image of Hunza valley]
+
+This project uses React, Tailwind CSS, and includes a hero section, features section, cards section, and footer. The images are included in the `images` folder. You can run the project by executing `npm start` in the terminal.
